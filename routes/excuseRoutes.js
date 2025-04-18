@@ -3,17 +3,31 @@ const router = express.Router();
 
 // 👉 All excuses categorized
 const excuses = {
-  work: [
-    "My Zoom crashed.",
-    "I had a power cut during the meeting.",
+  romantic: [
+    "I was lost in your thoughts and forgot the time 😌",
+    "Planning a surprise took longer than expected! 💝",
+    "I was writing a poem for you... and got emotional 🥹",
+    "Every time I try to call, I get butterflies 🦋",
+    "I was looking at our old pictures and just melted 🥰",
+    "I was trying to find the perfect words to say ‘I love you’ 💬",
+    "I zoned out dreaming about our future together 💭",
   ],
-  school: [
-    "My dog ate my homework.",
-    "I accidentally submitted a blank PDF.",
+  apology: [
+    "I messed up, but I miss you like crazy 😔💔",
+    "I’m bad with words, but I swear my heart’s in the right place ❤️",
+    "If I could rewind time, I’d spend every second making you smile 🕰️",
+    "I didn’t mean to hurt you. You mean everything to me 🌹",
+    "I'm sorry... Can I make it up to you with cuddles? 🧸",
+    "Please don’t be mad — you’re the only person I want to talk to 😞",
+    "No excuse is good enough… just let me fix it 🙏",
   ],
-  family: [
-    "I had to attend a surprise puja at home.",
-    "Grandma needed help with her phone again.",
+  silly-cute: [
+    "I was kidnapped by my pillow... it wouldn't let me go! 🛏️",
+    "The stars told me to text you but I fell asleep counting them ✨",
+    "My cat walked on my phone and sent weird emojis 🐱📱",
+    "I accidentally buttered my phone instead of my toast... again 🍞📵",
+    "I was busy writing your name 100 times on my notebook 😅",
+    "I tried to text you, but my phone got jealous of you 🫣",
   ],
 };
 
