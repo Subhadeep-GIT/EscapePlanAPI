@@ -21,7 +21,7 @@ const excuses = {
     "Please don’t be mad — you’re the only person I want to talk to 😞",
     "No excuse is good enough… just let me fix it 🙏",
   ],
-  silly-cute: [
+  sillycute: [
     "I was kidnapped by my pillow... it wouldn't let me go! 🛏️",
     "The stars told me to text you but I fell asleep counting them ✨",
     "My cat walked on my phone and sent weird emojis 🐱📱",
