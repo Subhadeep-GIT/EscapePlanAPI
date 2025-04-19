@@ -42,3 +42,20 @@ If a category doesn’t exist, you’ll receive:
 JSON: {
   "error": "Category not found"
 }
+
+
+✨ Want to Contribute?
+
+Open a PR with more categories or new routes! Keep it fun, positive, and quirky 💜
+
+
+📬 Contact
+
+Made with ❤️ by Subhadeep Ghosh
+
+⸻
+⚡ Example Use Cases
+	•	React Native apps (like Exit Code Red 🔴)
+	•	Chatbots that need fun replies
+	•	College assignment excuse generators 😎
+	•	Custom keyboards/extensions
